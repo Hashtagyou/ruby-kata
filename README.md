@@ -1,0 +1,2 @@
+# ruby-kata
+checkout kata
